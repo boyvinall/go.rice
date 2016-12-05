@@ -1,0 +1,21 @@
+hash: 9debe6ef9a4caf2dad03d3f460a889028cb8f43d7606686cfb8894fe072fac28
+updated: 2016-12-05T11:16:31.926591133Z
+imports:
+- name: github.com/akavel/rsrc
+  version: ba14da1f827188454a4591717fff29999010887f
+  subpackages:
+  - binutil
+  - coff
+- name: github.com/daaku/go.zipexe
+  version: a5fe2436ffcb3236e175e5149162b41cd28bd27d
+- name: github.com/davecgh/go-spew
+  version: 346938d642f2ec3594ed81d874461961cd0faa76
+  subpackages:
+  - spew
+- name: github.com/GeertJohan/go.incremental
+  version: 92fd0ce4a694213e8b3dfd2d39b16e51d26d0fbf
+- name: github.com/jessevdk/go-flags
+  version: 8bc97d602c3bfeb5fc6fc9b5a9c898f245495637
+- name: github.com/kardianos/osext
+  version: c2c54e542fb797ad986b31721e1baedf214ca413
+testImports: []

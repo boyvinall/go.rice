@@ -1,0 +1,13 @@
+package: github.com/GeertJohan/go.rice
+import:
+- package: github.com/GeertJohan/go.incremental
+- package: github.com/akavel/rsrc
+  subpackages:
+  - binutil
+  - coff
+- package: github.com/daaku/go.zipexe
+- package: github.com/davecgh/go-spew
+  subpackages:
+  - spew
+- package: github.com/jessevdk/go-flags
+- package: github.com/kardianos/osext
